@@ -29,4 +29,9 @@ This project will create QR codes that students can scan to sign up for clubs at
   - Could add color
   - Could have decoration
     
-
+## How do we work on this project?
+* Sign up for GITHUB.com, Using student email so its free.
+* Share Github Username with me or ask to be developers for this repository
+* Learn about CodeSpaces and set one up
+* Come up with flow of how this will work (Whos going to do what)
+* Create Skeleton of the code and how it will fit together
