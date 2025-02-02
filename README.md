@@ -14,3 +14,19 @@ This project will create QR codes that students can scan to sign up for clubs at
 * The form will ask them to put in their Email
 * The information will be saved to a google sheet
 
+## What we need to do
+* Read list of club names from a spreadsheet or a file
+  - Start with reading a file
+  - Could connect to a google sheet?
+    
+* Create a QR code for each club
+* Create a spreadsheet that saves the signups
+  - Could we share the spreadsheet with club leaders?
+* Create a google form that students use to signup
+* Connect form to spreadsheet
+* Program that creates a sheet that could be printed out with QR code
+  - We could add a logo
+  - Could add color
+  - Could have decoration
+    
+
